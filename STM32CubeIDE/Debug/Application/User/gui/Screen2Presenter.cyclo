@@ -1,0 +1,18 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::setNewSpeed(unsigned int)	1
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:21:18:virtual void ModelListener::setNewOBD2Data(OBDQueueElement_t*)	1
+../../TouchGFX/gui/include/gui/screen2_screen/Screen2Presenter.hpp:30:13:Screen2Presenter::~Screen2Presenter()	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2Presenter.cpp:10:6:virtual void Screen2Presenter::activate()	1
+../../TouchGFX/gui/include/gui/screen2_screen/Screen2Presenter.hpp:30:13:virtual Screen2Presenter::~Screen2Presenter()	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2Presenter.cpp:60:6:virtual void Screen2Presenter::setNewGaugeData(OBDQueueElement_t*)	6
+../../TouchGFX/gui/include/gui/screen2_screen/Screen2Presenter.hpp:30:13:virtual void* Screen2Presenter::_ZThn4_N16Screen2PresenterD1Ev()	1
+../../TouchGFX/gui/include/gui/screen2_screen/Screen2Presenter.hpp:30:13:virtual void* Screen2Presenter::_ZThn4_N16Screen2PresenterD0Ev()	1
+../../TouchGFX/gui/include/gui/screen2_screen/Screen2Presenter.hpp:33:10:virtual void Screen2Presenter::_ZThn4_N16Screen2Presenter15setNewGaugeDataEP17OBDQueueElement_t(OBDQueueElement_t*)	6
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2Presenter.cpp:4:1:Screen2Presenter::Screen2Presenter(Screen2View&)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2Presenter.cpp:20:6:void Screen2Presenter::saveSpeed(uint32_t)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2Presenter.cpp:25:6:void Screen2Presenter::saveRPM(uint32_t)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2Presenter.cpp:30:6:void Screen2Presenter::saveAmbientTemp(uint32_t)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2Presenter.cpp:35:6:void Screen2Presenter::saveCoolantTemp(uint32_t)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2Presenter.cpp:40:10:uint32_t Screen2Presenter::getSavedSpeed()	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2Presenter.cpp:45:10:uint32_t Screen2Presenter::getSavedRPM()	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2Presenter.cpp:50:10:uint32_t Screen2Presenter::getSavedAmbientTemp()	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2Presenter.cpp:55:10:uint32_t Screen2Presenter::getSavedCoolantTemp()	1

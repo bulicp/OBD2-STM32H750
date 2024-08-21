@@ -1,0 +1,995 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "Screen1",
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "image1",
+            "Width": 480,
+            "Height": 272,
+            "RelativeFilename": "__generated\\alternate_theme_images_backgrounds_480x272_waves.png"
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_4",
+            "X": 160,
+            "Y": 203,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_5",
+            "X": 320,
+            "Y": 203,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_6",
+            "X": 160,
+            "Y": 153,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_7",
+            "X": 160,
+            "Y": 103,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_8",
+            "X": 160,
+            "Y": 53,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_9",
+            "X": 320,
+            "Y": 153,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_10",
+            "X": 320,
+            "Y": 103,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_11",
+            "X": 320,
+            "Y": 53,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1",
+            "Y": 203,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_1",
+            "Y": 153,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_2",
+            "Y": 103,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_3",
+            "Y": 53,
+            "Width": 160,
+            "Height": 50,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 5,
+            "Alpha": 43
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1",
+            "X": 199,
+            "Y": 259,
+            "Width": 82,
+            "Height": 13,
+            "TextId": "__SingleUse_MZRT",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea2",
+            "X": 133,
+            "Y": 6,
+            "Width": 214,
+            "Height": 25,
+            "TextId": "__SingleUse_A7QO",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "buttonWithIcon1",
+            "X": 380,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_round_inactive.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_round_inactive.png",
+            "IconPressed": "__generated\\icon_theme_images_navigation_switch_left_50_50_E8F6FB.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_navigation_switch_left_50_50_E8F6FB.svg.png",
+            "IconX": 25,
+            "IconY": -7,
+            "IconHeight": 50,
+            "IconWidth": 50,
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_36\\tiny_round_inactive.json"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea3",
+            "X": 64,
+            "Y": 59,
+            "Width": 33,
+            "Height": 13,
+            "TextId": "__SingleUse_VWPI",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textSpeed",
+            "X": 17,
+            "Y": 72,
+            "Width": 123,
+            "Height": 25,
+            "TextId": "__SingleUse_MK8R",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_O704",
+              "UseBuffer": true,
+              "BufferSize": 5
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea4",
+            "X": 227,
+            "Y": 59,
+            "Width": 26,
+            "Height": 13,
+            "TextId": "__SingleUse_NDPG",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea5",
+            "X": 365,
+            "Y": 59,
+            "Width": 71,
+            "Height": 13,
+            "TextId": "__SingleUse_9BVT",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textRPMs",
+            "X": 175,
+            "Y": 72,
+            "Width": 131,
+            "Height": 25,
+            "TextId": "__SingleUse_5COD",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_W1Q5",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textEngLoad",
+            "X": 337,
+            "Y": 72,
+            "Width": 127,
+            "Height": 25,
+            "TextId": "__SingleUse_D2D6",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_WL4J",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea6",
+            "X": 17,
+            "Y": 110,
+            "Width": 126,
+            "Height": 13,
+            "TextId": "__SingleUse_UTMM",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea7",
+            "X": 195,
+            "Y": 110,
+            "Width": 90,
+            "Height": 13,
+            "TextId": "__SingleUse_42B1",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea8",
+            "X": 359,
+            "Y": 159,
+            "Width": 82,
+            "Height": 13,
+            "TextId": "__SingleUse_YIJ6",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea9",
+            "X": 36,
+            "Y": 209,
+            "Width": 89,
+            "Height": 13,
+            "TextId": "__SingleUse_QYFX",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea10",
+            "X": 200,
+            "Y": 209,
+            "Width": 80,
+            "Height": 13,
+            "TextId": "__SingleUse_BWDK",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea11",
+            "X": 351,
+            "Y": 110,
+            "Width": 98,
+            "Height": 13,
+            "TextId": "__SingleUse_U5AC",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea12",
+            "X": 32,
+            "Y": 159,
+            "Width": 108,
+            "Height": 13,
+            "TextId": "__SingleUse_DMSH",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea13",
+            "X": 175,
+            "Y": 159,
+            "Width": 131,
+            "Height": 13,
+            "TextId": "__SingleUse_CGL1",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea14",
+            "X": 351,
+            "Y": 209,
+            "Width": 98,
+            "Height": 13,
+            "TextId": "__SingleUse_R1TQ",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textCoolTemp",
+            "X": 17,
+            "Y": 122,
+            "Width": 126,
+            "Height": 24,
+            "TextId": "__SingleUse_5GX5",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_VWCY",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textIntakeTemp",
+            "X": 175,
+            "Y": 121,
+            "Width": 131,
+            "Height": 25,
+            "TextId": "__SingleUse_8SKY",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_PGXL",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textAmbientTemp",
+            "X": 337,
+            "Y": 121,
+            "Width": 127,
+            "Height": 25,
+            "TextId": "__SingleUse_3B5Y",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_TJJR",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textMAFrate",
+            "X": 17,
+            "Y": 172,
+            "Width": 123,
+            "Height": 25,
+            "TextId": "__SingleUse_J4ZS",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_6SOY",
+              "UseBuffer": true,
+              "BufferSize": 7
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textManifoldPress",
+            "X": 175,
+            "Y": 172,
+            "Width": 131,
+            "Height": 25,
+            "TextId": "__SingleUse_EZ15",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_9IZ8",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textFuelPress",
+            "X": 337,
+            "Y": 172,
+            "Width": 127,
+            "Height": 25,
+            "TextId": "__SingleUse_3LEU",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_C425",
+              "UseBuffer": true,
+              "BufferSize": 13
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textBaroPress",
+            "X": 17,
+            "Y": 222,
+            "Width": 126,
+            "Height": 26,
+            "TextId": "__SingleUse_S97P",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_656V",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textCatalystTemp",
+            "X": 175,
+            "Y": 222,
+            "Width": 131,
+            "Height": 26,
+            "TextId": "__SingleUse_6FV0",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_6T1P",
+              "UseBuffer": true,
+              "BufferSize": 7
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textOXYSensor1",
+            "X": 328,
+            "Y": 228,
+            "Width": 145,
+            "Height": 20,
+            "TextId": "__SingleUse_EVU0",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_O2LU",
+              "UseBuffer": true,
+              "BufferSize": 7
+            },
+            "Wildcard2": {
+              "TextId": "__SingleUse_M65H",
+              "UseBuffer": true,
+              "BufferSize": 6
+            }
+          },
+          {
+            "Type": "ScalableImage",
+            "Name": "scalableImage1",
+            "Width": 120,
+            "Height": 45,
+            "Filename": "Logo_FRI_en2_03.png",
+            "ScalingAlgorithm": "Nearest-neighbor"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "buttonWithIcon1"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "Screen2"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Screen2",
+        "CanvasBufferSize": 7200,
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "image1",
+            "Width": 480,
+            "Height": 272,
+            "RelativeFilename": "__generated\\alternate_theme_images_backgrounds_480x272_waves.png",
+            "Clickable": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1",
+            "X": 199,
+            "Y": 259,
+            "Width": 82,
+            "Height": 13,
+            "TextId": "__SingleUse_34L5",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "buttonWithIcon1",
+            "X": 380,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_round_inactive.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_round_inactive.png",
+            "IconPressed": "__generated\\icon_theme_images_navigation_switch_right_50_50_E8F6FB.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_navigation_switch_right_50_50_E8F6FB.svg.png",
+            "IconX": 25,
+            "IconY": -7,
+            "IconHeight": 50,
+            "IconWidth": 50,
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_36\\tiny_round_inactive.json"
+          },
+          {
+            "Type": "Gauge",
+            "Name": "gaugeRPM",
+            "X": 240,
+            "Y": 32,
+            "Width": 240,
+            "Height": 240,
+            "FileNameBackground": "image_RPMs.png",
+            "RotationCenterX": 120.0,
+            "RotationCenterY": 120.0,
+            "StartAngle": -113.0,
+            "EndAngle": 112.0,
+            "RangeMax": 5000.0,
+            "UseAnimation": true,
+            "Easing": "Cubic",
+            "EasingOption": "InOut",
+            "FileNameNeedle": "__generated\\alternate_theme_images_widgets_gauge_medium_needles_smooth.png",
+            "NeedleRotationCenterX": 7.0,
+            "NeedleRotationCenterY": 67.0,
+            "NeedleMovingRenderingAlgorithm": "Bilinear Interpolation",
+            "NeedleSteadyRenderingAlgorithm": "Bilinear Interpolation",
+            "UseArc": true,
+            "ArcColor": {
+              "Red": 237,
+              "Green": 219,
+              "Blue": 14
+            },
+            "ArcRadius": 103.0,
+            "ArcLineWidth": 7.0,
+            "ArcCapStyle": "Round",
+            "Clickable": true
+          },
+          {
+            "Type": "BoxProgress",
+            "Name": "boxProgressTemp",
+            "X": 310,
+            "Y": 221,
+            "Width": 100,
+            "Height": 10,
+            "Color": {
+              "Red": 78,
+              "Green": 252,
+              "Blue": 25
+            },
+            "Direction": "Right",
+            "Preset": "alternate_theme\\presets\\boxprogress\\normal\\tiny_action.json",
+            "FileNameBackground": "__generated\\alternate_theme_images_widgets_boxprogress_normal_tiny.png",
+            "IndicatorPositionWidth": 100,
+            "IndicatorPositionHeight": 10,
+            "ProgressRangeMax": 180,
+            "ProgressInitialValue": 5
+          },
+          {
+            "Type": "Gauge",
+            "Name": "gaugeSpeed",
+            "Y": 32,
+            "Width": 240,
+            "Height": 240,
+            "FileNameBackground": "image_Speed.png",
+            "RotationCenterX": 120.0,
+            "RotationCenterY": 120.0,
+            "StartAngle": -113.0,
+            "EndAngle": 112.0,
+            "RangeMax": 200.0,
+            "UseAnimation": true,
+            "Easing": "Cubic",
+            "EasingOption": "InOut",
+            "FileNameNeedle": "__generated\\alternate_theme_images_widgets_gauge_medium_needles_smooth.png",
+            "NeedleRotationCenterX": 7.0,
+            "NeedleRotationCenterY": 67.0,
+            "NeedleMovingRenderingAlgorithm": "Bilinear Interpolation",
+            "NeedleSteadyRenderingAlgorithm": "Bilinear Interpolation",
+            "UseArc": true,
+            "ArcColor": {
+              "Red": 24,
+              "Green": 214,
+              "Blue": 59
+            },
+            "ArcRadius": 103.0,
+            "ArcLineWidth": 7.0,
+            "ArcCapStyle": "Round",
+            "Clickable": true
+          },
+          {
+            "Type": "Line",
+            "Name": "line1",
+            "X": 360,
+            "Y": 221,
+            "Width": 10,
+            "Height": 10,
+            "Color": {
+              "Red": 240,
+              "Green": 160,
+              "Blue": 12
+            },
+            "EndY": 9.0,
+            "LineWidth": 3.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textAmbientTemp",
+            "Width": 72,
+            "Height": 23,
+            "TextId": "__SingleUse_U82J",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_2F84",
+              "UseBuffer": true,
+              "BufferSize": 8
+            }
+          },
+          {
+            "Type": "ScalableImage",
+            "Name": "scalableImage1",
+            "X": 180,
+            "Width": 120,
+            "Height": 45,
+            "Filename": "Logo_FRI_en2_03.png",
+            "ScalingAlgorithm": "Nearest-neighbor"
+          },
+          {
+            "Type": "Circle",
+            "Name": "circle1",
+            "X": 70,
+            "Y": 102,
+            "Width": 100,
+            "Height": 100,
+            "Color": {
+              "Red": 176,
+              "Green": 199,
+              "Blue": 214
+            },
+            "CenterX": 50.0,
+            "CenterY": 50.0,
+            "Radius": 50.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textSpeed",
+            "X": 72,
+            "Y": 128,
+            "Width": 97,
+            "Height": 48,
+            "TextId": "__SingleUse_EZPO",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 3,
+              "Green": 65,
+              "Blue": 87
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_C3A7",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "ScalableImage",
+            "Name": "scalableImage2",
+            "X": 352,
+            "Y": 234,
+            "Width": 20,
+            "Height": 20,
+            "Filename": "termometer2.png",
+            "ScalingAlgorithm": "Nearest-neighbor"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "buttonWithIcon1"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionCover",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "Screen1"
+            }
+          }
+        ]
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "Name": "OBD2",
+    "Resolution": {
+      "Width": 480,
+      "Height": 272
+    },
+    "SelectedColorDepth": 16,
+    "StartupScreenName": "Screen1",
+    "SelectedStartupLanguage": "GB",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      16
+    ],
+    "AvailableLCDs": {
+      "16": "LCD16bpp"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 480,
+        "Height": 272
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD16bpp": {
+        "Id": "LCD16bpp",
+        "IsEnabled": true
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommandOverride": "make -f ../gcc/Makefile -j8",
+    "FlashTargetCommandOverride": "make -f ../gcc/Makefile flash",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape",
+    "Family": "STM32H7",
+    "SubFamily": "STM32H750 Value line",
+    "Toolchain": "STM32CubeIDE",
+    "Platform": "m7",
+    "ProjectFile": "../STM32H750B-DK.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [],
+    "AdditionalFeatures": [
+      "Vector"
+    ]
+  },
+  "Version": "4.21.1",
+  "CreatedBy": "4.21.1"
+}

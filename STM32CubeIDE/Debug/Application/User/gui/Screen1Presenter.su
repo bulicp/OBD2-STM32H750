@@ -1,0 +1,19 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::setNewSpeed(unsigned int)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:22:18:virtual void ModelListener::setNewGaugeData(OBDQueueElement_t*)	0	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:30:13:Screen1Presenter::~Screen1Presenter()	0	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:11:6:virtual void Screen1Presenter::activate()	0	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:30:13:virtual Screen1Presenter::~Screen1Presenter()	8	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:69:6:virtual void Screen1Presenter::setNewOBD2Data(OBDQueueElement_t*)	0	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:30:13:virtual void* Screen1Presenter::_ZThn4_N16Screen1PresenterD1Ev()	0	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:30:13:virtual void* Screen1Presenter::_ZThn4_N16Screen1PresenterD0Ev()	8	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:35:10:virtual void Screen1Presenter::_ZThn4_N16Screen1Presenter14setNewOBD2DataEP17OBDQueueElement_t(OBDQueueElement_t*)	0	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:5:1:Screen1Presenter::Screen1Presenter(Screen1View&)	4	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:21:6:void Screen1Presenter::saveSpeed(uint32_t)	0	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:26:6:void Screen1Presenter::saveRPM(uint32_t)	0	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:31:6:void Screen1Presenter::saveAmbientTemp(uint32_t)	0	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:36:6:void Screen1Presenter::saveCoolantTemp(uint32_t)	0	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:43:10:uint32_t Screen1Presenter::getSavedSpeed()	0	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:48:10:uint32_t Screen1Presenter::getSavedRPM()	0	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:53:10:uint32_t Screen1Presenter::getSavedAmbientTemp()	0	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:58:10:uint32_t Screen1Presenter::getSavedCoolantTemp()	0	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:64:6:void Screen1Presenter::setNewSpeed(uint32_t)	0	static

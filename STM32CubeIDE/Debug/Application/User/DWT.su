@@ -1,0 +1,2 @@
+../Application/User/DWT.c:24:6:DWT_Init	4	static,ignoring_inline_asm
+../Application/User/DWT.c:59:6:DWT_DelayUS	24	static

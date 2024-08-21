@@ -1,0 +1,15 @@
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:68:6:HAL_MspInit	16	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:91:6:HAL_CRC_MspInit	8	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:113:6:HAL_CRC_MspDeInit	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:135:6:HAL_DMA2D_MspInit	16	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:160:6:HAL_DMA2D_MspDeInit	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:185:6:HAL_JPEG_MspInit	24	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:269:6:HAL_JPEG_MspDeInit	8	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:298:6:HAL_LTDC_MspInit	248	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:410:6:HAL_LTDC_MspDeInit	8	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:478:6:HAL_QSPI_MspInit	264	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:571:6:HAL_QSPI_MspDeInit	8	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:614:6:HAL_UART_MspInit	248	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:672:6:HAL_UART_MspDeInit	8	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:810:6:HAL_SDRAM_MspInit	240	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_hal_msp.c:894:6:HAL_SDRAM_MspDeInit	8	static

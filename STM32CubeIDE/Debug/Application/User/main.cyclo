@@ -1,0 +1,7 @@
+C:/TouchGFXProjects/OBD2/Core/Src/main.c:745:6:OBD2GetMsgTask	14
+C:/TouchGFXProjects/OBD2/Core/Src/main.c:848:6:OBD2SendQueryTask	1
+C:/TouchGFXProjects/OBD2/Core/Src/main.c:914:6:StartDefaultTask	1
+C:/TouchGFXProjects/OBD2/Core/Src/main.c:1009:6:HAL_TIM_PeriodElapsedCallback	2
+C:/TouchGFXProjects/OBD2/Core/Src/main.c:1026:6:Error_Handler	1
+C:/TouchGFXProjects/OBD2/Core/Src/main.c:279:6:SystemClock_Config	3
+C:/TouchGFXProjects/OBD2/Core/Src/main.c:149:5:main	16

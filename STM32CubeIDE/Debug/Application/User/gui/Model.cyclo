@@ -1,0 +1,12 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:21:18:virtual void ModelListener::setNewOBD2Data(OBDQueueElement_t*)	1
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:22:18:virtual void ModelListener::setNewGaugeData(OBDQueueElement_t*)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/model/Model.cpp:12:1:Model::Model()	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/model/Model.cpp:21:6:void Model::tick()	4
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/model/Model.cpp:33:6:void Model::saveSpeed(uint32_t)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/model/Model.cpp:38:6:void Model::saveRPM(uint32_t)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/model/Model.cpp:43:6:void Model::saveAmbientTemp(uint32_t)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/model/Model.cpp:48:6:void Model::saveCoolantTemp(uint32_t)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/model/Model.cpp:53:10:uint32_t Model::getSavedSpeed()	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/model/Model.cpp:58:10:uint32_t Model::getSavedRPM()	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/model/Model.cpp:63:10:uint32_t Model::getSavedAmbientTemp()	1
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/model/Model.cpp:68:10:uint32_t Model::getSavedCoolantTemp()	1

@@ -1,0 +1,5 @@
+../Application/User/fdcan.c:32:19:FDCAN1_Config	48	static
+../Application/User/fdcan.c:125:19:CAN_SendMessage	8	static
+../Application/User/fdcan.c:146:6:HAL_FDCAN_RxFifo0Callback	8	static,ignoring_inline_asm
+../Application/User/fdcan.c:192:6:HAL_FDCAN_MspInit	248	static
+../Application/User/fdcan.c:247:6:HAL_FDCAN_MspDeInit	8	static

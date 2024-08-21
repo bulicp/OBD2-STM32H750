@@ -1,0 +1,13 @@
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:79:6:NMI_Handler	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:92:6:HardFault_Handler	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:107:6:MemManage_Handler	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:122:6:BusFault_Handler	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:137:6:UsageFault_Handler	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:152:6:DebugMon_Handler	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:172:6:USART1_IRQHandler	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:186:6:TIM6_DAC_IRQHandler	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:200:6:LTDC_IRQHandler	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:214:6:DMA2D_IRQHandler	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:228:6:JPEG_IRQHandler	0	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:242:6:MDMA_IRQHandler	8	static
+C:/TouchGFXProjects/OBD2/Core/Src/stm32h7xx_it.c:256:6:FDCAN1_IT0_IRQHandler	0	static

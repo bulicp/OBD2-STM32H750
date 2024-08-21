@@ -1,0 +1,27 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp:383:43:virtual uint8_t touchgfx::Font::getBitsPerPixel() const	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	1
+../../TouchGFX/generated/fonts/include/fonts/CachedFont.hpp:57:29:virtual const uint16_t* touchgfx::CachedFont::getGSUBTable() const	2
+../../TouchGFX/generated/fonts/include/fonts/CachedFont.hpp:66:18:virtual void touchgfx::CachedFont::setGSUBTable(const uint16_t*)	1
+../../TouchGFX/generated/fonts/include/fonts/CachedFont.hpp:71:45:virtual const touchgfx::FontContextualFormsTable* touchgfx::CachedFont::getContextualFormsTable() const	2
+../../TouchGFX/generated/fonts/include/fonts/CachedFont.hpp:80:18:virtual void touchgfx::CachedFont::setContextualFormsTable(const touchgfx::FontContextualFormsTable*)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	1
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:13:1:touchgfx::FontCache::FontCache()	1
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:18:6:void touchgfx::FontCache::clear(bool)	2
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:35:6:void touchgfx::FontCache::setMemory(uint8_t*, uint32_t)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:43:6:void touchgfx::FontCache::setReader(touchgfx::FontDataReader*)	1
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:48:18:const touchgfx::GlyphNode* touchgfx::FontCache::getGlyph(touchgfx::Unicode::UnicodeChar, touchgfx::FontId) const	4
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:63:6:void touchgfx::FontCache::open()	2
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:71:6:void touchgfx::FontCache::close()	2
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:79:6:void touchgfx::FontCache::initializeCachedFont(touchgfx::TypedText, touchgfx::CachedFont*, bool)	19
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:233:6:bool touchgfx::FontCache::contains(touchgfx::Unicode::UnicodeChar, touchgfx::FontId) const	4
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:248:6:void touchgfx::FontCache::insert(touchgfx::Unicode::UnicodeChar, touchgfx::FontId, uint32_t, bool&)	10
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:276:10:uint8_t* touchgfx::FontCache::copyGlyph(uint8_t*, touchgfx::Unicode::UnicodeChar, touchgfx::FontId, uint32_t, bool&)	9
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:310:6:void touchgfx::FontCache::cacheData(uint32_t, touchgfx::GlyphNode*)	6
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:184:6:bool touchgfx::FontCache::cacheSortedString(touchgfx::TypedText)	20
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:158:6:bool touchgfx::FontCache::cacheString(touchgfx::TypedText, const touchgfx::Unicode::UnicodeChar*)	13
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:336:6:bool touchgfx::FontCache::createSortedString(const touchgfx::Unicode::UnicodeChar*)	10
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:357:6:)	15
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:171:6:bool touchgfx::FontCache::cacheLigatures(touchgfx::CachedFont*, touchgfx::TypedText, const touchgfx::Unicode::UnicodeChar*)	5
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:384:6:bool touchgfx::FontCache::sortSortedString(int)	7
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:410:6:void touchgfx::FontCache::setPosition(uint32_t)	2
+C:/TouchGFXProjects/OBD2/TouchGFX/generated/fonts/src/FontCache.cpp:418:6:void touchgfx::FontCache::readData(void*, uint32_t)	2

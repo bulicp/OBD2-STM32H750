@@ -1,0 +1,22 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:290:8:touchgfx::Callback<Screen2View, const touchgfx::Gauge&, const touchgfx::ClickEvent&>::~Callback()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:290:8:touchgfx::Callback<Screen2View, const touchgfx::Image&, const touchgfx::ClickEvent&>::~Callback()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:318:18:void touchgfx::Callback<dest_type, T1, T2, void>::execute(T1, T2) [with dest_type = Screen2View; T1 = const touchgfx::Gauge&; T2 = const touchgfx::ClickEvent&]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:328:18:bool touchgfx::Callback<dest_type, T1, T2, void>::isValid() const [with dest_type = Screen2View; T1 = const touchgfx::Gauge&; T2 = const touchgfx::ClickEvent&]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:318:18:void touchgfx::Callback<dest_type, T1, T2, void>::execute(T1, T2) [with dest_type = Screen2View; T1 = const touchgfx::Image&; T2 = const touchgfx::ClickEvent&]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:328:18:bool touchgfx::Callback<dest_type, T1, T2, void>::isValid() const [with dest_type = Screen2View; T1 = const touchgfx::Image&; T2 = const touchgfx::ClickEvent&]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:290:8:virtual touchgfx::Callback<Screen2View, const touchgfx::Image&, const touchgfx::ClickEvent&>::~Callback()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:290:8:virtual touchgfx::Callback<Screen2View, const touchgfx::Gauge&, const touchgfx::ClickEvent&>::~Callback()	8	static
+../../TouchGFX/gui/include/gui/screen2_screen/Screen2View.hpp:11:13:Screen2View::~Screen2View()	8	static
+../../TouchGFX/gui/include/gui/screen2_screen/Screen2View.hpp:11:13:virtual Screen2View::~Screen2View()	8	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:55:6:void Screen2View::gaugeClickHandler(const touchgfx::Gauge&, const touchgfx::ClickEvent&)	8	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:45:6:void Screen2View::backgroundClickHandler(const touchgfx::Image&, const touchgfx::ClickEvent&)	8	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:3:1:Screen2View::Screen2View()	8	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:90:6:void Screen2View::updateCoolantTemp(uint32_t)	16	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:14:6:virtual void Screen2View::setupScreen()	16	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:85:6:void Screen2View::updateRPMs(uint32_t)	0	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:33:6:virtual void Screen2View::tearDownScreen()	16	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:74:6:void Screen2View::updateSpeed(uint32_t)	16	static
+C:/TouchGFXProjects/OBD2/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:96:6:void Screen2View::updateAmbientAirTemp(uint32_t)	16	static
